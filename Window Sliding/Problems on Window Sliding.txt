@@ -1,0 +1,15 @@
+Fixed window size
+
+1. Maximum/Minimum (sum) sub array of size k ✅
+2. 1st negative in every window size of k ✅
+3. Count occurence of Anagram ✅
+4. Maximum (element)of all subarray of size k ✅
+5. Max of min for every window size of k ❌
+
+Variable window Size
+
+1. Largest/Smallest subarray of sum k ✅
+2. Largest substring of K distinct characters ✅
+3. Length of largest substring with no repeating characters ✅
+4. Minimum window substring ✅
+5. Pick toy ❌
